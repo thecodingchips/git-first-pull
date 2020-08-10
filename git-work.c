@@ -5,7 +5,7 @@ int main()
     printf("git first pull request");
     printf("\n");
 
-    printf("Btech second year");
+    printf("Btech third year");
     getch();
     return 0;
 
