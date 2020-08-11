@@ -5,8 +5,13 @@ int main()
     printf("git first pull request");
     printf("\n");
 
+    printf("first");
+    printf("\n");
+
     printf("Btech third year");
+    printf("middle");
     printf("bye bye");
+    printf("last");
     getch();
     return 0;
 
