@@ -7,6 +7,7 @@ int main()
 
     printf("Btech third year");
     printf("bye bye");
+    printf("last");
     getch();
     return 0;
 
