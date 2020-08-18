@@ -9,6 +9,7 @@ int main()
     printf("\n");
 
     printf("Btech third year");
+    printf("mr-riz");
     printf("middle");
     printf("bye bye");
     printf("last");
